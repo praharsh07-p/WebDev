@@ -1,0 +1,3 @@
+Hey there!,
+This is a simple example to know how git commit and push commands work.
+Thanks buddy😎
